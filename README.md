@@ -1,2 +1,3 @@
-# protonNMR_dressedStates
-Repository containing the data and the analysis for the publication of the dressed spin states measurements using the Proton NMR apparatus. 
+# Proton NMR - Dressed Spin States
+
+The repository contains the data and analysis for the dressed spin state measurements publication using the Proton NMR apparatus. 
